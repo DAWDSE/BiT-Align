@@ -12,4 +12,4 @@ We run in the following environment:
 - CUDA(11.8)
 
 ## Acknowledgements
-We would like to express our solemn gratitude to the following for their excellent work for providing us with valuable inspiration or contributions:[LOCATE](https://github.com/Reagan1311/LOCATE),[CLIP](https://github.com/openai/CLIP),[DINO V2](https://github.com/facebookresearch/dinov2),[WSMA](https://github.com/xulingjing88/WSMA).
+We would like to express our solemn gratitude to the following for their excellent work for providing us with valuable inspiration or contributions: [LOCATE](https://github.com/Reagan1311/LOCATE), [CLIP](https://github.com/openai/CLIP), [DINO V2](https://github.com/facebookresearch/dinov2), [WSMA](https://github.com/xulingjing88/WSMA).

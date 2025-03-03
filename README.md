@@ -10,3 +10,6 @@ We run in the following environment:
 - python(3.12.4)
 - torch(2.3.1)
 - CUDA(11.8)
+
+## Acknowledgements
+We would like to express our solemn gratitude to the following for their excellent work for providing us with valuable inspiration or contributions:[LOCATE](https://github.com/Reagan1311/LOCATE),[CLIP](https://github.com/openai/CLIP),[DINO V2](https://github.com/facebookresearch/dinov2),[WSMA](https://github.com/xulingjing88/WSMA).

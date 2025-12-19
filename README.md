@@ -11,8 +11,6 @@ We run in the following environment:
 - torch(2.3.1)
 - CUDA(11.8)
 
-Code is tested under Pytorch 1.12.1, python 3.7, and CUDA 11.6
-
 ```
 pip install -r requirements.txt
 ```

@@ -11,5 +11,20 @@ We run in the following environment:
 - torch(2.3.1)
 - CUDA(11.8)
 
+Code is tested under Pytorch 1.12.1, python 3.7, and CUDA 11.6
+
+```
+pip install -r requirements.txt
+```
+
+## Train and Test
+
+Run following commands to start training or testing:
+
+```
+python train.py --data_root <PATH_TO_DATA>
+python test.py --data_root <PATH_TO_DATA> --model_file <PATH_TO_MODEL>
+```
+
 ## Acknowledgements
 We would like to express our solemn gratitude to the following for their excellent work for providing us with valuable inspiration or contributions: [LOCATE](https://github.com/Reagan1311/LOCATE), [CLIP](https://github.com/openai/CLIP), [DINO V2](https://github.com/facebookresearch/dinov2), [WSMA](https://github.com/xulingjing88/WSMA).
